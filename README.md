@@ -14,7 +14,7 @@
 <uses-permission android:name="android.permission.INTERNET"/>
 ···
 
-2， 将获取到的 dl-release.jar 文件复制粘贴到 android studio 的左侧 app/libs 目录下， 在 aicloud-release.jar 右键选择 Add As Library
+2， 将获取到的 aicloud-release.jar 文件复制粘贴到 android studio 的左侧 app/libs 目录下， 在 aicloud-release.jar 右键选择 Add As Library
 
 3， 参考Sample，注册和获取 key、secret
 
